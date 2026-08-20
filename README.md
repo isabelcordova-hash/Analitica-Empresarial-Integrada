@@ -1,2 +1,22 @@
-# Analitica-Empresarial-Integrada
-Proyectos end-to-end de Analítica Empresarial. Transformación de datos en decisiones defendibles y valor medible usando Python, Polars, scikit-learn, PuLP, IA Generativa y Streamlit."
+# Analítica Empresarial Integrada — TECSUP 2026-I
+
+**Estudiante:** Vasquez Espinoza, Jesus
+**Sección:** A
+**Docente:** Pilar Rocío Sayán Mejía
+**Caso del curso:** AgroAndes Export S.A.C. — agroexportadora peruana
+
+## Contenido del portafolio
+
+| Semana | Tema | Entregable |
+|---|---|---|
+| 01 | La empresa analítica en la era de la IA | Diagnóstico de madurez DELTA |
+| 02 | Competencia analítica y madurez organizacional | Perfil analítico comparado |
+| 03 | La métrica que importa | Árbol de métricas |
+| 04 | Analítica diagnóstica | Descomposición de variaciones |
+
+## Herramientas
+
+Python · pandas · Polars · DuckDB · Plotly · Streamlit · Google Colab
+
+---
+*Portafolio académico. Los datos del caso son sintéticos y de uso educativo.*
